@@ -1,0 +1,23 @@
+.parisian {
+  font-family: Parisienne;
+}
+
+.white-text {
+   color: white;
+}
+
+.smaller-image {
+  width: 200px;
+}
+
+.body-color {
+  color: white;
+}
+
+body { 
+  background: url(https://farm4.staticflickr.com/3857/14842035615_2d4d1e3ff1_k.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
